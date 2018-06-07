@@ -1,2 +1,1 @@
-http://alloytools.org/
-Alloy Analyzer ^
+http://alloytools.org/ <- Alloy Analyzer
