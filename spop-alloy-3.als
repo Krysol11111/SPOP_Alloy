@@ -55,5 +55,6 @@ check BelowToo'' for 10
 
 run {Geometry && NoSharing}
 
-//problem jest taki, ze fakt PaulSimon wymusza, zeby wszyscy zawsze mieli kogos nad soba
-//czyli prowadzi to do tego, ze w pewnym miejscu mamy petle w pietrach 
+// problem jest taki, ze fakt PaulSimon wymusza, zeby wszyscy zawsze mieli kogos pod soba
+// czyli prowadzi to do tego, ze w pewnym miejscu mamy petle w pietrach,
+// bo ten najnizej tez musi miec kogos pod soba
